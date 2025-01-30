@@ -1,6 +1,6 @@
 # Normalização de Texto para Transcrições
 
-Este repositório contém um script Python para normalização de transcrições em português. O script processa transcrições do Whisper, normaliza números, unidades de medida e caracteres especiais, além de realizar várias operações de limpeza de texto.
+Esse repositório contém um script Python para normalização de transcrições em português. O script processa transcrições do Whisper, normaliza números, unidades de medida e caracteres especiais, além de realizar várias operações de limpeza de texto.
 
 ## Funcionalidades
 
