@@ -29,13 +29,13 @@ pip install -r requirements.txt
 Execute o script pela linha de comando especificando os caminhos dos arquivos de entrada e saída:
 
 ```bash
-python normalize_text.py -i arquivo_entrada.csv -o arquivo_saida.csv
+python normalizar_coluna.py -i arquivo_entrada.csv -o arquivo_saida.csv
 ```
 
 Ou usando os nomes completos dos argumentos:
 
 ```bash
-python normalize_text.py --input arquivo_entrada.csv --output arquivo_saida.csv
+python normalizar_coluna.py --input arquivo_entrada.csv --output arquivo_saida.csv
 ```
 
 ### Requisitos do Arquivo de Entrada
